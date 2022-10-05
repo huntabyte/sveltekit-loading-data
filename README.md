@@ -1,6 +1,6 @@
 # Loading Data in SvelteKit
 
-Source code used in the [Loading Data in SvelteKit](https://youtube.com/c/huntabyte) video on my YouTube channel.
+Source code used in the [Loading Data in SvelteKit](https://www.youtube.com/watch?v=EQy-AYhZIlE&t=602s) video on my YouTube channel.
 
 ## Getting Started
 
