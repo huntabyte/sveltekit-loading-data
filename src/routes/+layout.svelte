@@ -1,7 +1,7 @@
 <nav>
 	<a href="/">Home</a>
 	<a href="/shop" data-sveltekit-prefetch>Shop</a>
-	<a href="/movies" data-sveltekit-prefetch>Movies</a>
+	<a href="/Covid" data-sveltekit-prefetch>Covid</a>
 </nav>
 <slot />
 

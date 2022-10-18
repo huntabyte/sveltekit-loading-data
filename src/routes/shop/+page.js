@@ -7,10 +7,6 @@ export const load = async ({ fetch }) => {
         return productData.products
     }
 
-
-
-    
-
     return {
        products: fetchProducts(),
     }
